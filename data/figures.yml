@@ -1,0 +1,148 @@
+figure_list:
+  - id: "01"
+    src: "fig-1-debucourt.jpg"
+    alt: painting of a street in Paris
+    caption: "Fig. 1. Philibert-Louis Debucourt, *View of the Louvre and Rue Frementeau*, 1780. Oil on canvas, 61 x 50 cm."
+    credit: "Musée du Louvre, Paris. Image: [Wikimedia Commons](https://upload.wikimedia.org/wikipedia/commons/7/7b/Debucourt-Louvre-facade-seen-from-rue-Fromenteau.jpg)."
+  - id: "02"
+    src: "fig-2-academylist1726.jpg"
+    alt: academy register with lists of members and addresses
+    caption: "Fig. 2. Printed list of artists and their addresses from 1726, Académie Royale’s membership register, Ms 21."
+    credit: "École nationale supérieure des Beaux-Arts, Paris. Photo by the author."
+  - id: "03"
+    src: "fig-3-largilliere.jpg"
+    alt: Nicolas de Largillière’s address shown on Google Maps
+    caption: "Fig. 3.  Screenshot of Nicolas de Largillière’s address in 1726, on Rue Geoffroy-Langevin, plotted on Google Maps."
+    credit: "Screenshot by the author."
+  - id: "04"
+    src: "fig-4-bertin.jpg"
+    alt: Nicolas Bertin’s address shown on Google Maps
+    caption: "Fig. 4. Screenshot of Nicolas Bertin’s address in 1726, on Rue Frementeau (a street that no longer exists), plotted on Google Maps."
+    credit: "Screenshot by the author."
+  - id: "05"
+    src: "fig-5-planjunie.jpg"
+    alt: 18th-century map of Paris
+    caption: "Fig. 5. Jean Junié, Plan des paroisses de Paris, 1786."
+    credit: "Image in the public domain: Wikimedia Commons."
+  - id: "06"
+    src: "fig-6-planverniquet.jpg"
+    alt: 18th-century map of Paris
+    caption: "Fig. 6. Edmé Verniquet, Plan de la ville de Paris, 1790."
+    credit: "Image in the public domain: Wikimedia Commons."
+  - id: "07"
+    src: "fig-7-mapwarper.png"
+    alt: an eighteenth-century map of Paris after georectification
+    caption: "Fig. 7. Process of georectifying Junié’s Plan des paroisses (1786) on an OpenStreetMap base map using Map Warper."
+    credit: "Screenshot by the author."
+  - id: "08"
+    src: "fig-8-1726fullsite.png"
+    alt: results of a year-mode search for 1726 in artists in Paris
+    caption: "Fig. 8. Year-mode search for 1726 in which addresses for every member of the Academy that year are displayed on the map. Hannah Williams & Chris Sparks, *Artists in Paris: Mapping the 18th-Century Art World*, [www.artistsinparis.org](www.artistsinparis.org) (beta) (accessed 1 March 2018)."
+    credit: "Screenshot by the author."
+  - id: "09"
+    src: "fig-9-1680gobelins.png"
+    alt: results of a year-mode search for 1680 zoomed to the Gobelins in artists in Paris
+    caption: "Fig. 9. Year-mode search for 1680, zoomed to show the artists then resident in the Gobelins tapestry factory. Hannah Williams & Chris Sparks, *Artists in Paris: Mapping the 18th-Century Art World*, [www.artistsinparis.org](www.artistsinparis.org) (beta) (accessed 1 March 2018)."
+    credit: "Screenshot by the author."
+  - id: "10"
+    src: "fig-10-1740engravers.png"
+    alt: results of a year-mode search for 1740 zoomed to Rue Saint-Jacques in artists in Paris
+    caption: "Fig. 10. Year-mode search for 1740, zoomed to show the engravers living around Rue Saint-Jacques. Hannah Williams & Chris Sparks, *Artists in Paris: Mapping the 18th-Century Art World*, [www.artistsinparis.org](www.artistsinparis.org) (beta) (accessed 1 March 2018)."
+    credit: "Screenshot by the author."
+  - id: "11"
+    src: "fig-11-1760portraitists.png"
+    alt: results of a year-mode search for 1760 filtering only portraitists in artists in Paris
+    caption: "Fig. 11. Year-mode search for 1760, with the type filter selected to show only the addresses of the Academy’s portraitists. Hannah Williams & Chris Sparks, *Artists in Paris: Mapping the 18th-Century Art World*, [www.artistsinparis.org](www.artistsinparis.org) (beta) (accessed 1 March 2018)."
+    credit: "Screenshot by the author."
+  - id: "12"
+    src: "fig-12-1685sculptors.png"
+    alt: results of a year-mode search for 1685 filtering only sculptors in artists in Paris
+    caption: "Fig. 12. Year-mode search for 1685, with the type filter selected to show only the addresses of the Academy’s sculptors. Hannah Williams & Chris Sparks, *Artists in Paris: Mapping the 18th-Century Art World*, [www.artistsinparis.org](www.artistsinparis.org) (beta) (accessed 1 March 2018)."
+    credit: "Screenshot by the author."
+  - id: "13"
+    src: "fig-13-dumontleromain.png"
+    alt: results of an artist-mode search for Jacques Dumont Le Romain in artists in Paris
+    caption: "Fig. 13. Artist-mode search for Jacques Dumont Le Romain, with the map showing all the addresses at which he lived during his career. Hannah Williams & Chris Sparks, *Artists in Paris: Mapping the 18th-Century Art World*, [www.artistsinparis.org](www.artistsinparis.org) (beta) (accessed 1 March 2018)."
+    credit: "Screenshot by the author."
+  - id: "14"
+    src: "fig-14-boucher.png"
+    alt: results of an artist-mode search for Francois Boucher in artists in Paris
+    caption: "Fig. 14. Artist-mode search for François Boucher, with the map showing all the addresses at which he lived during his career. Hannah Williams & Chris Sparks, *Artists in Paris: Mapping the 18th-Century Art World*, [www.artistsinparis.org](www.artistsinparis.org) (beta) (accessed 1 March 2018)."
+    credit: "Screenshot by the author."
+  - id: "15"
+    src: "fig-15-rigaud.png"
+    alt: results of an artist-mode search for Hyacinthe Rigaud in artists in Paris
+    caption: "Fig. 15. Artist-mode search for Hyacinthe Rigaud, zoomed to show his address on Rue Louis Le Grand. Hannah Williams & Chris Sparks, *Artists in Paris: Mapping the 18th-Century Art World*, [www.artistsinparis.org](www.artistsinparis.org) (beta) (accessed 1 March 2018)."
+    credit: "Screenshot by the author."
+  - id: "16"
+    src: "fig-16-rigaudplaque.jpg"
+    alt: plaque marking home of Hyacinthe Rigaud
+    caption: "Fig. 16. Wall plaque on Rue Louis le Grand marking the home of the painter Hyacinthe Rigaud (Paris, 2017)."
+    credit: "Photo by the author."
+  - id: "17"
+    src: "fig-17-vigee.png"
+    alt: results of an artist-mode search for Elisabeth Vigee Lebrun in artists in Paris
+    caption: "Fig. 17. Artist-mode search for Elisabeth Vigée-Lebrun, zoomed to show her address on Rue de Cléry. Hannah Williams & Chris Sparks, *Artists in Paris: Mapping the 18th-Century Art World*, [www.artistsinparis.org](www.artistsinparis.org) (beta) (accessed 1 March 2018)."
+    credit: "Screenshot by the author."
+  - id: "18"
+    src: "fig-18-vigeeplaque.jpg"
+    alt: plaque marking the home of Elisabeth Vigee Lebrun
+    caption: "Fig. 18. Wall plaque on Rue de Cléry, Paris marking the home of the painter Elisabeth Vigée-Lebrun (Paris, 2017)."
+    credit: "Photo by the author."
+  - id: "19"
+    src: "fig-19-streetsinparis.jpg"
+    alt: Paris map marked with streets named after artists
+    caption: "Fig. 19. Locations of streets in Paris named after artists who were members or students of the Académie Royale (as listed in **Table 1**), plotted on Google Maps."
+    credit: "Screenshot by the author."
+  - id: "20"
+    src: "fig-20-ruefragonard.jpg"
+    alt: street signs related to Fragonard
+    caption: "Fig. 20. Signs for ‘Rue Fragonard’ and ‘Centre sportif Fragonard’ in the 17e *arrondissement* (Paris, 2017)."
+    credit: "Photo by the author."
+  - id: "21"
+    src: "fig-21-moulindelagalette.jpg"
+    alt: view of Moulin de la Galette
+    caption: "Fig. 21. The Moulin de la Galette on the corner of Rue Girardon in the 18e *arrondissement* (Paris, 2017)."
+    credit: "Photo by the author."
+  - id: "22"
+    src: "fig-22-ruegirardon.jpg"
+    alt: street sign for Rue Girardon
+    caption: "Fig. 22. Detail of the street sign for Rue Girardon in the 18e *arrondissement* (Paris, 2017)."
+    credit: "Photo by the author."
+  - id: "23"
+    src: "fig-23-ruepigalle.jpg"
+    alt: street signs for rue Pigalle
+    caption: "Fig. 23. Signs for ‘Rue Jean-Baptiste Pigalle’ in the 9e *arrondissement* (Paris, 2017)."
+    credit: "Photo by the author."
+  - id: "24"
+    src: "fig-24-metropigalle.jpg"
+    alt: view of Pigalle metro station
+    caption: "Fig. 24. Pigalle Metro station on Place Pigalle in the 9e *arrondissement* (Paris, 2017)."
+    credit: "Photo by the author."
+  - id: "25"
+    src: "fig-25-bonnard.jpg"
+    alt: painting of Paris street scene
+    caption: "Fig. 25. Pierre Bonnard, *Place Pigalle at Night*, c. 1905-1908. Oil on canvas, 57.5 x 68.4 cm. Gift of Walter Bareiss."
+    credit: "Yale University Art Gallery, New Haven. Image courtesy of [Yale University Art Gallery](https://artgallery.yale.edu/collections/objects/9808)."
+  - id: "26"
+    src: "cover-j18.jpg"
+  - id: "27"
+    src: "j18_logo.jpg"
+  - id: "28"
+    src: clip1still.png
+    media_id: 260724474
+    media_type: vimeo
+    aspect_ratio: widescreen
+    caption: "Clip 1. Animation showing changing locations of artists’ addresses between 1675 and 1793, with map zoomed to city limits of Paris. Hannah Williams & Chris Sparks, *Artists in Paris: Mapping the 18th-Century Art World*, [www.artistsinparis.org](www.artistsinparis.org) (beta) (accessed 1 March 2018)."
+    credit: "Animation made in QuickTime by the author."
+  - id: "29"
+    src: clip2still.png
+    media_id: 260724809
+    media_type: vimeo
+    aspect_ratio: standard
+    caption: "Clip 2. Animation showing changing locations of artists’ addresses between 1675 and 1793, with map zoomed to Louvre quarter. Hannah Williams & Chris Sparks, *Artists in Paris: Mapping the 18th-Century Art World*, [www.artistsinparis.org](www.artistsinparis.org) (beta) (accessed 1 March 2018)."
+    credit: Animation made in QuickTime by the author.
+  - id: "30"
+    src:
+    media_type: "website"
+    media_id: "Http://www.artistsinparis.org"
