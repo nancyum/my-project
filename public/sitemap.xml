@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://nancyum.github.io/my-project/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nancyum.github.io/my-project/artists-studios/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nancyum.github.io/my-project/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nancyum.github.io/my-project/search.json</loc>
+  </url>
+  
+</urlset>

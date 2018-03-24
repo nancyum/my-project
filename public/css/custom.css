@@ -1,0 +1,15 @@
+.journal18-cover-logo {
+width: 20em;
+}
+
+.quire-figure .quire-figure__caption {
+font-style: normal;
+}
+
+.content table {
+ font-size: .7em;
+}
+
+.content table tr:nth-child(even) {
+ background-color: #F5F5F5;
+}
