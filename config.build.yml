@@ -19,10 +19,11 @@
 
 # Use these settings for GH Pages
 #
-# baseURL: "https://gettypubs.github.io/quire-demo"
-# canonifyURLs: true
+baseURL: "https://nancyum.github.io/my-project"
+canonifyURLs: true
+relativeURLs: false
 
 # Use these settings for Netlify
 #
-baseURL: "http://quire-demo.netlify.com"
-relativeURLs: true
+# baseURL: "http://quire-demo.netlify.com"
+# relativeURLs: true

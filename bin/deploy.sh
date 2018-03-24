@@ -17,7 +17,7 @@ rm -rf $BUILD_DIR
 mkdir $BUILD_DIR
 
 echo "Generating site"
-# hugo --config=config.yml,config/environments/github.yml
+# hugo --config=config.yml,config.build.yml
 quire build
 
 echo "Updating gh-pages branch"
