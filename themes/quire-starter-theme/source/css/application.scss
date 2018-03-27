@@ -28,7 +28,7 @@ $family-primary: 'Merriweather', serif;
 // By default, text that appears over a background color will be inverted to either white or black for best legibility, but any color can be applied here.
 
 $quire-navbar-color: rgb(74, 176, 183);
-$quire-cover-color: $cyan;
+$quire-cover-color: rgb(74, 176, 183);
 $quire-footer-color: $light;
 $quire-menu-color: rgb(74, 176, 183);
 $quire-page-header-color: $light;
@@ -36,7 +36,7 @@ $quire-page-link-color: rgb(74, 176, 183);
 $quire-entry-image-color: $dark;
 
 $quire-navbar-text-color: findColorInvert($quire-navbar-color);
-$quire-cover-text-color: midnightblue;
+$quire-cover-text-color: azure;
 $quire-footer-text-color: findColorInvert($quire-footer-color);
 $quire-menu-text-color: findColorInvert($quire-menu-color);
 $quire-page-header-text-color: midnightblue;

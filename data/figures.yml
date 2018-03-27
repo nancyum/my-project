@@ -22,52 +22,52 @@ figure_list:
   - id: "05"
     src: "fig-5-planjunie.jpg"
     alt: 18th-century map of Paris
-    caption: "Fig. 5. Jean Junié, Plan des paroisses de Paris, 1786."
-    credit: "Image in the public domain: Wikimedia Commons."
+    caption: "Fig. 5. Jean Junié, *Plan des paroisses de Paris*, 1786."
+    credit: "Image in the public domain: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Plan_des_paroisses_de_Paris_avec_la_distinction_des_parties_eparses_qui_de_dépendent.jpg)."
   - id: "06"
     src: "fig-6-planverniquet.jpg"
     alt: 18th-century map of Paris
-    caption: "Fig. 6. Edmé Verniquet, Plan de la ville de Paris, 1790."
-    credit: "Image in the public domain: Wikimedia Commons."
+    caption: "Fig. 6. Edmé Verniquet, *Plan de la ville de Paris*, 1790."
+    credit: "Image in the public domain: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:1790_Plan_de_Verniquet.jpg)."
   - id: "07"
     src: "fig-7-mapwarper.png"
     alt: an eighteenth-century map of Paris after georectification
-    caption: "Fig. 7. Process of georectifying Junié’s Plan des paroisses (1786) on an OpenStreetMap base map using Map Warper."
+    caption: "Fig. 7. Process of georectifying Junié’s *Plan des paroisses* (1786) on an OpenStreetMap base map using Map Warper."
     credit: "Screenshot by the author."
   - id: "08"
     src: "fig-8-1726fullsite.png"
     alt: results of a year-mode search for 1726 in artists in Paris
-    caption: "Fig. 8. Year-mode search for 1726 in which addresses for every member of the Academy that year are displayed on the map. Hannah Williams & Chris Sparks, *Artists in Paris: Mapping the 18th-Century Art World*, [www.artistsinparis.org](www.artistsinparis.org) (beta) (accessed 1 March 2018)."
+    caption: "Fig. 8. Year-mode search for 1726 in which addresses for every member of the Academy that year are displayed on the map. Hannah Williams & Chris Sparks, *Artists in Paris: Mapping the 18th-Century Art World*, [www.artistsinparis.org](http://www.artistsinparis.org) (beta) (accessed 1 March 2018)."
     credit: "Screenshot by the author."
   - id: "09"
     src: "fig-9-1680gobelins.png"
     alt: results of a year-mode search for 1680 zoomed to the Gobelins in artists in Paris
-    caption: "Fig. 9. Year-mode search for 1680, zoomed to show the artists then resident in the Gobelins tapestry factory. Hannah Williams & Chris Sparks, *Artists in Paris: Mapping the 18th-Century Art World*, [www.artistsinparis.org](www.artistsinparis.org) (beta) (accessed 1 March 2018)."
+    caption: "Fig. 9. Year-mode search for 1680, zoomed to show the artists then resident in the Gobelins tapestry factory. Hannah Williams & Chris Sparks, *Artists in Paris: Mapping the 18th-Century Art World*, [www.artistsinparis.org](http://www.artistsinparis.org) (beta) (accessed 1 March 2018)."
     credit: "Screenshot by the author."
   - id: "10"
     src: "fig-10-1740engravers.png"
     alt: results of a year-mode search for 1740 zoomed to Rue Saint-Jacques in artists in Paris
-    caption: "Fig. 10. Year-mode search for 1740, zoomed to show the engravers living around Rue Saint-Jacques. Hannah Williams & Chris Sparks, *Artists in Paris: Mapping the 18th-Century Art World*, [www.artistsinparis.org](www.artistsinparis.org) (beta) (accessed 1 March 2018)."
+    caption: "Fig. 10. Year-mode search for 1740, zoomed to show the engravers living around Rue Saint-Jacques. Hannah Williams & Chris Sparks, *Artists in Paris: Mapping the 18th-Century Art World*, [www.artistsinparis.org](http://www.artistsinparis.org) (beta) (accessed 1 March 2018)."
     credit: "Screenshot by the author."
   - id: "11"
     src: "fig-11-1760portraitists.png"
     alt: results of a year-mode search for 1760 filtering only portraitists in artists in Paris
-    caption: "Fig. 11. Year-mode search for 1760, with the type filter selected to show only the addresses of the Academy’s portraitists. Hannah Williams & Chris Sparks, *Artists in Paris: Mapping the 18th-Century Art World*, [www.artistsinparis.org](www.artistsinparis.org) (beta) (accessed 1 March 2018)."
+    caption: "Fig. 11. Year-mode search for 1760, with the type filter selected to show only the addresses of the Academy’s portraitists. Hannah Williams & Chris Sparks, *Artists in Paris: Mapping the 18th-Century Art World*, [www.artistsinparis.org](http://www.artistsinparis.org) (beta) (accessed 1 March 2018)."
     credit: "Screenshot by the author."
   - id: "12"
     src: "fig-12-1685sculptors.png"
     alt: results of a year-mode search for 1685 filtering only sculptors in artists in Paris
-    caption: "Fig. 12. Year-mode search for 1685, with the type filter selected to show only the addresses of the Academy’s sculptors. Hannah Williams & Chris Sparks, *Artists in Paris: Mapping the 18th-Century Art World*, [www.artistsinparis.org](www.artistsinparis.org) (beta) (accessed 1 March 2018)."
+    caption: "Fig. 12. Year-mode search for 1685, with the type filter selected to show only the addresses of the Academy’s sculptors. Hannah Williams & Chris Sparks, *Artists in Paris: Mapping the 18th-Century Art World*, [www.artistsinparis.org](http://www.artistsinparis.org) (beta) (accessed 1 March 2018)."
     credit: "Screenshot by the author."
   - id: "13"
     src: "fig-13-dumontleromain.png"
     alt: results of an artist-mode search for Jacques Dumont Le Romain in artists in Paris
-    caption: "Fig. 13. Artist-mode search for Jacques Dumont Le Romain, with the map showing all the addresses at which he lived during his career. Hannah Williams & Chris Sparks, *Artists in Paris: Mapping the 18th-Century Art World*, [www.artistsinparis.org](www.artistsinparis.org) (beta) (accessed 1 March 2018)."
+    caption: "Fig. 13. Artist-mode search for Jacques Dumont Le Romain, with the map showing all the addresses at which he lived during his career. Hannah Williams & Chris Sparks, *Artists in Paris: Mapping the 18th-Century Art World*, [www.artistsinparis.org](http://www.artistsinparis.org) (beta) (accessed 1 March 2018)."
     credit: "Screenshot by the author."
   - id: "14"
     src: "fig-14-boucher.png"
     alt: results of an artist-mode search for Francois Boucher in artists in Paris
-    caption: "Fig. 14. Artist-mode search for François Boucher, with the map showing all the addresses at which he lived during his career. Hannah Williams & Chris Sparks, *Artists in Paris: Mapping the 18th-Century Art World*, [www.artistsinparis.org](www.artistsinparis.org) (beta) (accessed 1 March 2018)."
+    caption: "Fig. 14. Artist-mode search for François Boucher, with the map showing all the addresses at which he lived during his career. Hannah Williams & Chris Sparks, *Artists in Paris: Mapping the 18th-Century Art World*, [http://www.artistsinparis.org](www.artistsinparis.org) (beta) (accessed 1 March 2018)."
     credit: "Screenshot by the author."
   - id: "15"
     src: "fig-15-rigaud.png"
@@ -129,20 +129,25 @@ figure_list:
   - id: "27"
     src: "j18_logo.jpg"
   - id: "28"
-    src: clip1still.png
+    src: "clip1still.png"
     media_id: 260724474
     media_type: vimeo
     aspect_ratio: widescreen
     caption: "Clip 1. Animation showing changing locations of artists’ addresses between 1675 and 1793, with map zoomed to city limits of Paris. Hannah Williams & Chris Sparks, *Artists in Paris: Mapping the 18th-Century Art World*, [www.artistsinparis.org](www.artistsinparis.org) (beta) (accessed 1 March 2018)."
     credit: "Animation made in QuickTime by the author."
   - id: "29"
-    src: clip2still.png
+    src: "clip2still.png"
     media_id: 260724809
     media_type: vimeo
     aspect_ratio: standard
     caption: "Clip 2. Animation showing changing locations of artists’ addresses between 1675 and 1793, with map zoomed to Louvre quarter. Hannah Williams & Chris Sparks, *Artists in Paris: Mapping the 18th-Century Art World*, [www.artistsinparis.org](www.artistsinparis.org) (beta) (accessed 1 March 2018)."
     credit: Animation made in QuickTime by the author.
   - id: "30"
+    src: "fig-19-streetsinparis.jpg"
+    media_type: website
+    media_id: "https://www.google.com/maps/d/embed?mid=1qoELd4dq1ard0FpEJsNVbsMFgfg"
+    caption: "Fig. 19. Locations of streets in Paris named after artists who were members or students of the Académie Royale (as listed in **Table 1**), plotted on Google Maps."
+  - id: "31"
     src:
-    media_type: "website"
-    media_id: "Http://www.artistsinparis.org"
+    media_type: website
+    media_id: "https://fusiontables.google.com/embedviz?q=select+col8+from+1T-WYsRxeauIX3M6lB9K1l-Q5Mww3Ll0e22RvoGBS&viz=MAP&h=false&lat=40.771800991301696&lng=-73.97387047426758&t=1&z=13&l=col8&y=2&tmplt=2&hml=TWO_COL_LAT_LNG"
