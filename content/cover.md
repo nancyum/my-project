@@ -4,7 +4,7 @@ weight: 1
 menu: false
 type: cover
 slug: .
-image: fig-25-bonnard.jpg
+image: juniecover.jpg
 ---
 {{< q-figure id="27" class="journal18-cover-logo" >}}
 </br>

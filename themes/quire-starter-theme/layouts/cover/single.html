@@ -28,16 +28,16 @@ Cover page layout. This controls the home page of the publication.
         {{ end }}
       </h1>
 
-      {{ with .Site.Data.publication.reading_line }}
-      <p class="">{{ . | markdownify }}</p>
-      {{ end }}
-
       {{- if .Site.Data.publication.contributor_as_it_appears -}}
       {{ .Site.Data.publication.contributor_as_it_appears }}
       {{ else }}
       <span class="visually-hidden">Contributors: </span>
       {{ partial "contributor-list.html" (dict "range" .Site.Data.publication.contributor "contributorType" "primary" "listType" "list" ) }}
       {{- end -}}
+
+      {{ with .Site.Data.publication.reading_line }}
+      <p class="">{{ . | markdownify }}</p>
+      {{ end }}
 
       {{ else }}
       {{/* Fallback for when no publication.yml data is present */}}

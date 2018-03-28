@@ -3,19 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://nancyum.github.io/my-project/</loc>
+    <loc>//localhost:1313/</loc>
   </url>
   
   <url>
-    <loc>https://nancyum.github.io/my-project/artists-studios/</loc>
+    <loc>//localhost:1313/artists-studios/</loc>
   </url>
   
   <url>
-    <loc>https://nancyum.github.io/my-project/about/</loc>
+    <loc>//localhost:1313/about/</loc>
   </url>
   
   <url>
-    <loc>https://nancyum.github.io/my-project/search.json</loc>
+    <loc>//localhost:1313/search.json</loc>
   </url>
   
 </urlset>

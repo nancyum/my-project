@@ -18,17 +18,6 @@
       </span>
       {{- end -}}
 
-      {{- with .Site.Data.publication.reading_line -}}
-      <span class="quire-menu__header__reading-line">
-      {{ . | markdownify }}
-      </span>
-      {{- end -}}
-    </h2>
-    {{- if ne .Kind "home" -}}
-    </a>
-    {{- end -}}
-  </div>
-
   <div class="quire-menu__header__contributors">
     {{- if .Site.Data.publication.contributor_as_it_appears -}}
     {{ .Site.Data.publication.contributor_as_it_appears }}
@@ -39,4 +28,16 @@
     {{ partial "contributor-list.html" (dict "range" .Site.Data.publication.contributor "contributorType" "primary" "listType" "string") }}
     {{- end -}}
   </div>
+
+  {{- with .Site.Data.publication.reading_line -}}
+  <span class="quire-menu__header__reading-line">
+  {{ . | markdownify }}
+  </span>
+  {{- end -}}
+  </h2>
+  {{- if ne .Kind "home" -}}
+  </a>
+  {{- end -}}
+  </div>
+
 </header>

@@ -6,10 +6,48 @@ width: 20em;
 font-style: normal;
 }
 
+.quire-figure .quire-figure__caption {
+  font-style: normal;
+  text-align: left;
+}
+
 .content table {
- font-size: .7em;
+ font-size: .8em;
 }
 
 .content table tr:nth-child(even) {
  background-color: #F5F5F5;
+}
+
+. journal18-cover-author {
+font-size: 1.5rem;
+margin-bottom: .25rem;
+}
+
+
+table + p {
+  font-size: 1rem;
+}
+
+@media screen and (min-width: 900px) {
+  .quire-page__content {
+    font-size: 20px;
+  }
+}
+
+.quire-page__content {
+ font-size: 20px;
+}
+
+
+.quire-cover .container a {
+  background-color: inherit;
+  text-decoration: underline;
+}
+
+.quire-cover .container p:last-child,
+.quire-menu__header__reading-line {
+  margin-top: 1em;
+  font-style: normal;
+  display: block;
 }

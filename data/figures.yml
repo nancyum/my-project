@@ -67,12 +67,12 @@ figure_list:
   - id: "14"
     src: "fig-14-boucher.png"
     alt: results of an artist-mode search for Francois Boucher in artists in Paris
-    caption: "Fig. 14. Artist-mode search for François Boucher, with the map showing all the addresses at which he lived during his career. Hannah Williams & Chris Sparks, *Artists in Paris: Mapping the 18th-Century Art World*, [http://www.artistsinparis.org](www.artistsinparis.org) (beta) (accessed 1 March 2018)."
+    caption: "Fig. 14. Artist-mode search for François Boucher, with the map showing all the addresses at which he lived during his career. Hannah Williams & Chris Sparks, *Artists in Paris: Mapping the 18th-Century Art World*, [www.artistsinparis.org](http://www.artistsinparis.org) (beta) (accessed 1 March 2018)."
     credit: "Screenshot by the author."
   - id: "15"
-    src: "fig-15-rigaud.png"
+    src: "fig-15-rigaud.jpg"
     alt: results of an artist-mode search for Hyacinthe Rigaud in artists in Paris
-    caption: "Fig. 15. Artist-mode search for Hyacinthe Rigaud, zoomed to show his address on Rue Louis Le Grand. Hannah Williams & Chris Sparks, *Artists in Paris: Mapping the 18th-Century Art World*, [www.artistsinparis.org](www.artistsinparis.org) (beta) (accessed 1 March 2018)."
+    caption: "Fig. 15. Artist-mode search for Hyacinthe Rigaud, zoomed to show his address on Rue Louis Le Grand. Hannah Williams & Chris Sparks, *Artists in Paris: Mapping the 18th-Century Art World*, [www.artistsinparis.org](http://www.artistsinparis.org) (beta) (accessed 1 March 2018)."
     credit: "Screenshot by the author."
   - id: "16"
     src: "fig-16-rigaudplaque.jpg"
@@ -80,9 +80,9 @@ figure_list:
     caption: "Fig. 16. Wall plaque on Rue Louis le Grand marking the home of the painter Hyacinthe Rigaud (Paris, 2017)."
     credit: "Photo by the author."
   - id: "17"
-    src: "fig-17-vigee.png"
+    src: "fig-17-vigee.jpg"
     alt: results of an artist-mode search for Elisabeth Vigee Lebrun in artists in Paris
-    caption: "Fig. 17. Artist-mode search for Elisabeth Vigée-Lebrun, zoomed to show her address on Rue de Cléry. Hannah Williams & Chris Sparks, *Artists in Paris: Mapping the 18th-Century Art World*, [www.artistsinparis.org](www.artistsinparis.org) (beta) (accessed 1 March 2018)."
+    caption: "Fig. 17. Artist-mode search for Elisabeth Vigée-Lebrun, zoomed to show her address on Rue de Cléry. Hannah Williams & Chris Sparks, *Artists in Paris: Mapping the 18th-Century Art World*, [www.artistsinparis.org](http://www.artistsinparis.org) (beta) (accessed 1 March 2018)."
     credit: "Screenshot by the author."
   - id: "18"
     src: "fig-18-vigeeplaque.jpg"
@@ -133,14 +133,14 @@ figure_list:
     media_id: 260724474
     media_type: vimeo
     aspect_ratio: widescreen
-    caption: "Clip 1. Animation showing changing locations of artists’ addresses between 1675 and 1793, with map zoomed to city limits of Paris. Hannah Williams & Chris Sparks, *Artists in Paris: Mapping the 18th-Century Art World*, [www.artistsinparis.org](www.artistsinparis.org) (beta) (accessed 1 March 2018)."
+    caption: "Clip 1. Animation showing changing locations of artists’ addresses between 1675 and 1793, with map zoomed to city limits of Paris. Hannah Williams & Chris Sparks, *Artists in Paris: Mapping the 18th-Century Art World*, [www.artistsinparis.org](http://www.artistsinparis.org) (beta) (accessed 1 March 2018)."
     credit: "Animation made in QuickTime by the author."
   - id: "29"
     src: "clip2still.png"
     media_id: 260724809
     media_type: vimeo
     aspect_ratio: standard
-    caption: "Clip 2. Animation showing changing locations of artists’ addresses between 1675 and 1793, with map zoomed to Louvre quarter. Hannah Williams & Chris Sparks, *Artists in Paris: Mapping the 18th-Century Art World*, [www.artistsinparis.org](www.artistsinparis.org) (beta) (accessed 1 March 2018)."
+    caption: "Clip 2. Animation showing changing locations of artists’ addresses between 1675 and 1793, with map zoomed to Louvre quarter. Hannah Williams & Chris Sparks, *Artists in Paris: Mapping the 18th-Century Art World*, [www.artistsinparis.org](http://www.artistsinparis.org) (beta) (accessed 1 March 2018)."
     credit: Animation made in QuickTime by the author.
   - id: "30"
     src: "fig-19-streetsinparis.jpg"

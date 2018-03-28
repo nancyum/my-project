@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:5496cdc2-5dab-67fe-c3cb-5003c98336f5"/>
+  </head>
+  <docTitle>
+    <text>Artists’ Studios in Paris: Digitally Mapping the 18th-Century Art World An article in [*Journal18: a journal of eighteenth-century art and culture*](http://www.journal18.org)&lt;/br&gt;Issue 5: *Coordinates: Digital Mapping and 18th-Century Visual, Material, and Built Cultures* (Spring 2018)&lt;/br&gt;Edited by Nancy Um and Carrie Anderson</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1" class="chapter">   
+  		<navLabel><text>Cover</text></navLabel>
+		  <content src="cover.xhtml"/>    
+    </navPoint>  
+
+    <navPoint id="navPoint-2" playOrder="2" class="chapter">   
+  		<navLabel><text>
+        
+        Artists’ Studios in Paris
+        
+        Digitally Mapping the 18th-Century Art World
+        
+      </text></navLabel>
+		  <content src="artists-studios.xhtml"/>    
+    </navPoint>  
+
+    <navPoint id="navPoint-3" playOrder="3" class="chapter">   
+  		<navLabel><text>
+        
+        About this article
+        
+      </text></navLabel>
+		  <content src="about.xhtml"/>    
+    </navPoint>  
+</navMap>
+</ncx>
+<!-- Created with pe-epub at http://thepeoplesebook.net -->
