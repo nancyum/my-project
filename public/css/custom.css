@@ -51,3 +51,15 @@ table + p {
   font-style: normal;
   display: block;
 }
+
+.quire-cover .container p:last-child {
+  font-weight: bold
+}
+
+.quire-cover .container .quire-contributor {
+  font-weight: bold
+}
+
+#artists-studios div[role=navigation] {
+  display: none
+}
