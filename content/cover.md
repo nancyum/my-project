@@ -4,7 +4,7 @@ weight: 1
 menu: false
 type: cover
 slug: .
-image: juniecover.jpg
+image: fig-1-debucourt.jpg
 ---
 {{< q-figure id="27" class="journal18-cover-logo" >}}
 </br>

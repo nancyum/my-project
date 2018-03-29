@@ -97,7 +97,7 @@ figure_list:
   - id: "20"
     src: "fig-20-ruefragonard.jpg"
     alt: street signs related to Fragonard
-    caption: "Fig. 20. Signs for ‘Rue Fragonard’ and ‘Centre sportif Fragonard’ in the 17e *arrondissement* (Paris, 2017)."
+    caption: "Fig. 20. Signs for Rue Fragonard and Centre sportif Fragonard in the 17e *arrondissement* (Paris, 2017)."
     credit: "Photo by the author."
   - id: "21"
     src: "fig-21-moulindelagalette.jpg"
@@ -139,7 +139,7 @@ figure_list:
     src: "clip2still.png"
     media_id: 260724809
     media_type: vimeo
-    aspect_ratio: standard
+    aspect_ratio: widescreen
     caption: "Clip 2. Animation showing changing locations of artists’ addresses between 1675 and 1793, with map zoomed to Louvre quarter. Hannah Williams & Chris Sparks, *Artists in Paris: Mapping the 18th-Century Art World*, [www.artistsinparis.org](http://www.artistsinparis.org) (beta) (accessed 1 March 2018)."
     credit: Animation made in QuickTime by the author.
   - id: "30"
