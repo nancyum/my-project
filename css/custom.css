@@ -29,16 +29,17 @@ table + p {
   font-size: 1rem;
 }
 
-@media screen and (min-width: 900px) {
+/* @media screen and (min-width: 900px) {
   .quire-page__content {
     font-size: 20px;
   }
-}
+} */
 
-.quire-page__content {
- font-size: 20px;
+@media screen {
+  .quire-page__content {
+   font-size: 20px;
+  }
 }
-
 
 .quire-cover .container a {
   background-color: inherit;
@@ -62,4 +63,101 @@ table + p {
 
 #artists-studios div[role=navigation] {
   display: none
+}
+
+@media print {
+
+  .quire-cover {
+    height: 4in;
+    padding-top: 1in;
+    padding-left: .5in;
+    padding-right: .5in;
+    margin-bottom: .5in;
+  }
+
+  .quire-cover .title {
+    font-size: 24pt;
+    margin-bottom: 12pt;
+  }
+
+  .quire-cover .container p:last-child {
+    display: none;
+  }
+
+  .quire-cover .subtitle {
+    font-size: 12pt;
+  }
+
+  .quire-cover-footer {
+    background-color: white;
+  }
+
+  .quire-cover-footer a {
+    background-color: white;
+  }
+
+  .quire-cover-footer .menu-list {
+    display: none;
+  }
+
+  .quire-copyright,
+  .quire-copyright .column.is-two-thirds {
+    padding-left: 0;
+    margin-left: 0;
+    font-size: 10pt;
+  }
+
+  .quire-publisher-logos {
+    max-width: 1.5in;
+  }
+
+  .quire-page__content {
+    column-gap: .25in;
+  }
+
+  .quire-page__header {
+    margin-bottom: .5in;
+  }
+
+  .quire-figure {
+    column-span: none;
+    width: 100%;
+    margin: 1.5em 0;
+  }
+
+  .quire-figure.journal18-cover-logo {
+    width: 2in;
+    margin-bottom: 0;
+  }
+
+  .content figure {
+    margin: 1.5em 0;
+  }
+
+  .content .quire-figure--group__item:not(:last-child) {
+    margin-bottom: 1em;
+  }
+
+  .quire-figure.two-column,
+  table,
+  table + p {
+    column-span: all;
+    margin: 1.5em;
+  }
+
+  iframe {
+    display: none;
+  }
+
+  .quire-page__content .content h2 {
+    line-height: 24pt;
+  }
+
+  @page {
+    @bottom-right {
+      content: counter(page);
+      font-size: 7.5pt;
+    }
+  }
+
 }
