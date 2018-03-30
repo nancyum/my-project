@@ -74,12 +74,12 @@ license:
 
 resource_link:
   - type: other-format
-    name: PDF (1.9 MB)
+    name: PDF (1.5 MB)
     media_type: application/pdf
     link_relation: alternate
     url: /downloads/artists-studios.pdf
   - type: other-format
-    name: EPUB (12.4 MB)
+    name: EPUB (11.9 MB)
     media_type: application/epub+zip
     link_relation: alternate
     url: /downloads/artists-studios.epub
