@@ -74,15 +74,15 @@ license:
 
 resource_link:
   - type: other-format
-    name: PDF
+    name: PDF (1.9 MB)
     media_type: application/pdf
     link_relation: alternate
-    url: /downloads/quire.pdf
+    url: /downloads/artists-studios.pdf
   - type: other-format
-    name: EPUB
+    name: EPUB (12.4 MB)
     media_type: application/epub+zip
     link_relation: alternate
-    url: /downloads/quire.epub
+    url: /downloads/artists-studios.epub
   - type: footer-link
     name: About this article
     link_relation: about
