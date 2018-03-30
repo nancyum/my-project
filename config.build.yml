@@ -19,11 +19,12 @@
 
 # Use these settings for GH Pages
 #
-baseURL: "https://nancyum.github.io/my-project"
-canonifyURLs: true
-relativeURLs: false
+# baseURL: "https://nancyum.github.io/my-project"
+# canonifyURLs: true
+# relativeURLs: false
 
-# Use these settings for Netlify
-#
-# baseURL: "http://quire-demo.netlify.com"
-# relativeURLs: true
+# Use these settings for Final Deploy
+
+baseURL: "http://www.journal18.org/2654"
+canonifyURLs: false
+relativeURLs: true
