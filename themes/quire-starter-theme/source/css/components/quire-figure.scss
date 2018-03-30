@@ -87,7 +87,7 @@
     }
 
     @media print {
-      column-span: all !important;
+      // column-span: all !important;
       float: none !important;
       width: unset !important;
     }
@@ -230,7 +230,7 @@
   }
 
   @media print {
-    column-span: all;
+    // column-span: all;
     -webkit-column-break-inside: avoid;
     page-break-inside: avoid;
     break-inside: avoid;

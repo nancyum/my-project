@@ -112,7 +112,7 @@ $quire-page-header-text-color: findColorInvert($quire-page-header-color) !defaul
   @media print {
     column-count: 2;
     column-fill: auto !important;
-    column-gap: 2rem;
+    column-gap: .25in;
     font-size: 9pt;
     line-height: 13pt;
     margin: 0;
