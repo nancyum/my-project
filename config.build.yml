@@ -25,6 +25,5 @@
 
 # Use these settings for Final Deploy
 
-baseURL: "http://www.journal18.org/issue5_williams/"
+baseURL: "http://www.journal18.org/issue5_williams"
 canonifyURLs: false
-relativeURLs: true
