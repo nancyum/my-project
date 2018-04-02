@@ -154,7 +154,7 @@ These layers of artistic intersections over time make Pigalle a particularly poi
 ***Hannah Williams is Leverhulme Early Career Research Fellow in the School of History at Queen Mary University of London***
 
 </br>
-**Cite this article as:** Hannah Williams, "Artists’ Studios in Paris: Digitally Mapping the 18th-Century Art World," *Journal18*, Issue 5 *Coordinates* (Spring 2018), http://www.journal18.org/2654.
+**Cite this article as:** Hannah Williams, "Artists’ Studios in Paris: Digitally Mapping the 18th-Century Art World," *Journal18*, Issue 5 *Coordinates* (Spring 2018), http://www.journal18.org/issue5_williams/.
 
 
 ## Notes
